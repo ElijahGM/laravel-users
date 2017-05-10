@@ -19,7 +19,7 @@
         "laravel/framework": "5.4.*",
         "php-soft/laravel-array-view": "1.1.x",
         "tymon/jwt-auth": "0.5.*",
-        "zizaco/entrust": "dev-laravel-5",
+        "zizaco/entrust": "5.2.x-dev",
         "doctrine/dbal": "^2.5"
     },
     "require-dev": {
